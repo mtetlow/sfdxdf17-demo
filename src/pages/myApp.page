@@ -1,0 +1,8 @@
+<apex:page showHeader="true" sidebar="true" controller="AppController">
+  <apex:slds />
+
+  <div id="root" class="slds-scope">
+
+  </div>
+	<script src="{!URLFOR($Resource.MyAppResources, 'static/js/main.f852bc8e.js')}" />
+</apex:page>
