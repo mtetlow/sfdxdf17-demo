@@ -1,0 +1,18 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "sfdxdf17__Thing__c",
+                "referenceId": "sfdxdf17__Thing__cRef1"
+            },
+            "Name": "Thing 2"
+        },
+        {
+            "attributes": {
+                "type": "sfdxdf17__Thing__c",
+                "referenceId": "sfdxdf17__Thing__cRef2"
+            },
+            "Name": "Thing 1"
+        }
+    ]
+}
