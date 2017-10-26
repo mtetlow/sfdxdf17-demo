@@ -1,2 +1,7 @@
 sfdxdf17.sublime-project
-config
+.DS_Store
+.sfdx
+.project
+.salesforce
+.settings
+.idea
